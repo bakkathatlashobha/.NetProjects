@@ -1,0 +1,2 @@
+# .NetProjects
+sample project
